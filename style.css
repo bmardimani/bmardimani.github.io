@@ -4,9 +4,15 @@ html {
 	padding: 0;
 	}
 body { 
-	background: #fff url(https://bmardimani.github.io/filter.jpg) no-repeat bottom right; 
+	background:url(https://bmardimani.github.io/filter.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
+	position: absolute;
+   	top: 0;
+  	bottom: 0;
+    	left: 0;
+    	right: 0;
+    	background-color: rgba(0,0,0,.15);
 	}
 	}
 a:link { 
