@@ -32,4 +32,7 @@ a:hover, a:focus, a:active {
 abbr {
 	border-bottom: none;
 	}
-
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+   }
